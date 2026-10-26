@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+mystars-faas
+python-dotenv
+pytoniq
+aiohttp
